@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Dokumentasi">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <android.support.v7.widget.CardView
+            android:id="@+id/kedua"
+            android:foreground="?android:attr/selectableItemBackground"
+            android:clickable="true"
+            android:layout_margin="12dp"
+            app:cardElevation="6dp"
+            app:cardCornerRadius="12dp"
+            android:layout_columnWeight="1"
+            android:layout_rowWeight="1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:layout_marginLeft="25dp"
+                android:layout_marginTop="10dp"
+                android:textAppearance="@style/TextAppearance.AppCompat.Title"
+                android:text="Melihat Total Kalori"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:layout_marginLeft="25dp"
+                android:layout_marginRight="25dp"
+                android:layout_marginTop="40dp"
+                android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+                android:text="@string/tot"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+        </android.support.v7.widget.CardView>
+
+        <android.support.v7.widget.CardView
+            android:id="@+id/pertama"
+            android:foreground="?android:attr/selectableItemBackground"
+            android:clickable="true"
+            android:layout_margin="12dp"
+            app:cardElevation="6dp"
+            app:cardCornerRadius="12dp"
+            android:layout_columnWeight="1"
+            android:layout_rowWeight="1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:layout_marginLeft="25dp"
+                android:layout_marginTop="10dp"
+                android:textAppearance="@style/TextAppearance.AppCompat.Title"
+                android:text="Menghapus Semua Kalori"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:layout_marginLeft="25dp"
+                android:layout_marginRight="25dp"
+                android:layout_marginTop="40dp"
+                android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+                android:text="@string/del"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+        </android.support.v7.widget.CardView>
+
+        <android.support.v7.widget.CardView
+            android:id="@+id/keempat"
+            android:foreground="?android:attr/selectableItemBackground"
+            android:clickable="true"
+            android:layout_margin="12dp"
+            app:cardElevation="6dp"
+            app:cardCornerRadius="12dp"
+            android:layout_columnWeight="1"
+            android:layout_rowWeight="1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:layout_marginLeft="25dp"
+                android:layout_marginTop="10dp"
+                android:textAppearance="@style/TextAppearance.AppCompat.Title"
+                android:text="Memulai Latihan"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:layout_marginLeft="25dp"
+                android:layout_marginRight="25dp"
+                android:layout_marginTop="40dp"
+                android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+                android:text="@string/start"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+        </android.support.v7.widget.CardView>
+
+        <android.support.v7.widget.CardView
+            android:id="@+id/ketiga"
+            android:foreground="?android:attr/selectableItemBackground"
+            android:clickable="true"
+            android:layout_margin="12dp"
+            app:cardElevation="6dp"
+            app:cardCornerRadius="12dp"
+            android:layout_columnWeight="1"
+            android:layout_rowWeight="1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:layout_marginLeft="25dp"
+                android:layout_marginTop="10dp"
+                android:textAppearance="@style/TextAppearance.AppCompat.Title"
+                android:text="Melihat Semua Aktivitas"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:layout_marginLeft="25dp"
+                android:layout_marginRight="25dp"
+                android:layout_marginTop="40dp"
+                android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+                android:text="@string/all"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+        </android.support.v7.widget.CardView>
+
+        <android.support.v7.widget.CardView
+            android:id="@+id/kelima"
+            android:foreground="?android:attr/selectableItemBackground"
+            android:clickable="true"
+            android:layout_margin="12dp"
+            app:cardElevation="6dp"
+            app:cardCornerRadius="12dp"
+            android:layout_columnWeight="1"
+            android:layout_rowWeight="1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:layout_marginLeft="25dp"
+                android:layout_marginTop="10dp"
+                android:textAppearance="@style/TextAppearance.AppCompat.Title"
+                android:text="Gerakan Pada Mode Easy"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:layout_marginLeft="25dp"
+                android:layout_marginTop="40dp"
+                android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+                android:text="@string/easy"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+        </android.support.v7.widget.CardView>
+
+        <android.support.v7.widget.CardView
+            android:id="@+id/keenam"
+            android:foreground="?android:attr/selectableItemBackground"
+            android:clickable="true"
+            android:layout_margin="12dp"
+            app:cardElevation="6dp"
+            app:cardCornerRadius="12dp"
+            android:layout_columnWeight="1"
+            android:layout_rowWeight="1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:layout_marginLeft="25dp"
+                android:layout_marginTop="10dp"
+                android:textAppearance="@style/TextAppearance.AppCompat.Title"
+                android:text="Gerakan Pada Mode Medium"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:layout_marginLeft="25dp"
+                android:layout_marginTop="40dp"
+                android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+                android:text="@string/medium"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+        </android.support.v7.widget.CardView>
+
+        <android.support.v7.widget.CardView
+            android:id="@+id/ketujuh"
+            android:foreground="?android:attr/selectableItemBackground"
+            android:clickable="true"
+            android:layout_margin="12dp"
+            app:cardElevation="6dp"
+            app:cardCornerRadius="12dp"
+            android:layout_columnWeight="1"
+            android:layout_rowWeight="1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:layout_marginLeft="25dp"
+                android:layout_marginTop="10dp"
+                android:textAppearance="@style/TextAppearance.AppCompat.Title"
+                android:text="Gerakan Pada Mode Expert"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:layout_marginLeft="25dp"
+                android:layout_marginTop="40dp"
+                android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+                android:text="@string/expert"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+        </android.support.v7.widget.CardView>
+
+        <Button
+            android:id="@+id/metu"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="KELUAR"/>
+
+    </LinearLayout>
+
+</ScrollView>

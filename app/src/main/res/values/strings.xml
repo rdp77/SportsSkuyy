@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Sports Skuyy</string>
+    <string name="title_activity_kalori">Kalori</string>
+    <string name="tab_text_1">Data Kalori Anda</string>
+    <string name="tab_text_2">Data Kalori Lain</string>
+    <string name="kalori">Data Kalori</string>
+    <string name="title_activity_easy">Easy</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_easy_step">EasyStep</string>
+    <string name="del">Untuk menghapus semua kalori cukup mudah dan simple,pada dashboard klik icon sampah yang berada di pojok kiri atas.Jika berhasil maka akan menampilkan notifikasi di bawah dan jumlah kalori akan direset menjadi 0.\n</string>
+    <string name="tot">Pada dashboard akan terlihat jumlah total kalori yang sudah terbuang.\n</string>
+    <string name="all">Setiap latihan akan mencatat semua seperti tanggal,gerakan dan jumlah kalori untuk melihatnya bisa mengklik total kalori pada dashboard.\n</string>
+    <string name="start">Untuk memulai latihan bisa memilih antara mode easy,medium atau expert pada dashboard.\n\nUntuk melihat mode yang dijalankan lihat pada bagian pojok kiri atas.\n\nUntuk melihat proses lihat pada bagian atas.\n</string>
+    <string name="easy">1.Jumping Jacks\n2.High Knee Up\n3.Mountain Climbers\n4.Sit Up\n5.Plank Knee Twist\n6.Wide Push Up\n7.Crunch\n8.Push Up\n9.Russian Twist\n10.Burpess\n11.Toe Jump\n12.Plank\n</string>
+    <string name="medium">1.Jumping Jacks\n2.High Knee Up\n3.Mountain Climbers\n4.Sit Up\n5.Plank Knee Twist\n6.Wide Push Up\n7.Crunch\n8.Push Up\n9.Russian Twist\n10.Burpess\n11.Toe Jump\n12.Plank\n13.Squat\n14.Sit Up\n15.Push Up\n16.Jumping Jacks\n</string>
+    <string name="expert">1.Jumping Jacks\n2.High Knee Up\n3.Mountain Climbers\n4.Sit Up\n5.Plank Knee Twist\n6.Wide Push Up\n7.Crunch\n8.Push Up\n9.Russian Twist\n10.Burpess\n11.Toe Jump\n12.Plank\n13.Squat\n14.Sit Up\n15.Push Up\n16.Jumping Jacks\n17.Burpees\n18.Plank\n</string>
+</resources>
