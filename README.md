@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="200" height="200" src="https://github.com/rdp77/SportsSkuyy/blob/master/doc/logo.png">
+  <img width="200" height="200" src="doc/logo.png">
 </p>
 
 ## Sports Skuyy
@@ -9,15 +9,15 @@ This project is our job as students who are assigned to create java-based androi
 ### Screenshot
 
 <p align="center">
-  <img width="290" height="520" src="https://github.com/rdp77/SportsSkuyy/blob/master/doc/dashboard.png">
-  <img width="290" height="520" src="https://github.com/rdp77/SportsSkuyy/blob/master/doc/delkal.png">
-  <img width="290" height="520" src="https://github.com/rdp77/SportsSkuyy/blob/master/doc/guide.png">
-  <img width="290" height="520" src="https://github.com/rdp77/SportsSkuyy/blob/master/doc/listkal.png">
-  <img width="290" height="520" src="https://github.com/rdp77/SportsSkuyy/blob/master/doc/start.png">
-  <img width="290" height="520" src="https://github.com/rdp77/SportsSkuyy/blob/master/doc/training.png">
-  <img width="290" height="520" src="https://github.com/rdp77/SportsSkuyy/blob/master/doc/break.png">
-  <img width="290" height="520" src="https://github.com/rdp77/SportsSkuyy/blob/master/doc/finish.png">
-  <img width="290" height="520" src="https://github.com/rdp77/SportsSkuyy/blob/master/doc/notification.png">
+  <img width="290" height="520" src="doc/dashboard.png">
+  <img width="290" height="520" src="doc/delkal.png">
+  <img width="290" height="520" src="doc/guide.png">
+  <img width="290" height="520" src="doc/listkal.png">
+  <img width="290" height="520" src="doc/start.png">
+  <img width="290" height="520" src="doc/training.png">
+  <img width="290" height="520" src="doc/break.png">
+  <img width="290" height="520" src="doc/finish.png">
+  <img width="290" height="520" src="doc/notification.png">
 </p>
 
 ### Requirements API 
