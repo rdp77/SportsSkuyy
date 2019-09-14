@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+## Sports Skuyy
 
-You can use the [editor on GitHub](https://github.com/rdp77/SportsSkuyy/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This project is our job as students who are assigned to create java-based android applications and are useful for daily life, therefore our team makes Sports Skuyy applications that aim to help our lives to be even more enthusiastic in sports.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Screenshot
 
-### Markdown
+### Requirements API 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Devices must use a minimum API 23 (Android Marshmallow) and a maximum using an API 28 (Android Pie).
+
+### Bug
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+You can change the background image for an application into a shape 
+because on an Android device that has a screen of less than 5.5 inch 
+the application will suffer damage in the background and the worst is 
+the application will experience a force close.
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
+### Documentation
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rdp77/SportsSkuyy/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### Our Team
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+* Moh Ravi Dwi Putra (Team Leader)
+* Abdul Rozaq (Sports Research)
+* Dila Alirezeki (Database Programmer)
+* Fabiyan (Programmer)
+* Ahmad Rizal (Programmer)
+* Ryannov (Designer)
