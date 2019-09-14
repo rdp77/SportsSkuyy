@@ -41,9 +41,9 @@ the application will experience a force close.
 
 ### Our Team
 
-* Moh Ravi Dwi Putra (Team Leader)
+* [Moh Ravi Dwi Putra (Team Leader)](https://github.com/rdp77)
 * Abdul Rozaq (Sports Research)
-* Dila Alirezeki (Database Programmer)
+* [Dila Alirezeki (Database Programmer)](https://github.com/dilaalrizeki)
 * Fabiyan (Programmer)
 * Ahmad Rizal (Programmer)
 * Ryannov (Designer)
