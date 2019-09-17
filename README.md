@@ -35,9 +35,9 @@ the application will experience a force close.
 
 ### Documentation
 
-* [Application Flowchart (PDF)](https://github.com/rdp77/SportsSkuyy/blob/master/doc/Sports%20Skuyy%20Logic.pdf)
-* [Application Flowchart (Visio)](https://github.com/rdp77/SportsSkuyy/blob/master/doc/Sports%20Skuyy%20Logic.vsdx)
-* Report
+* [Application Flowchart (PDF)](doc/Sports%20Skuyy%20Logic.pdf)
+* [Application Flowchart (Visio)](doc/Sports%20Skuyy%20Logic.vsdx)
+* [Report](doc/Report%20Sport%20Skuyy.docx)
 
 ### Our Team
 
