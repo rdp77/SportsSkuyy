@@ -4,7 +4,7 @@
 
 ## Sports Skuyy
 
-This project is our job as students who are assigned to create java-based android applications and are useful for daily life, therefore our team makes Sports Skuyy applications that aim to help our lives to be even more enthusiastic in sports.
+This project is our job as students who are assigned to create java-based android applications and are useful for daily life, therefore our team makes Sports Skuyy applications that aim to help our lives to be even more enthusiastic in sports.This application also has data transfer by Bluetooth which you can see on [this page.](https://rdp77.github.io/BluetoothSportsSkuyy/)
 
 ### Screenshot
 
