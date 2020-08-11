@@ -3,11 +3,12 @@ package com.team.sportsskuyy;
 import android.app.AlertDialog;
 import android.content.DialogInterface;
 import android.os.CountDownTimer;
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
+
+import androidx.appcompat.app.AppCompatActivity;
 
 import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
@@ -212,11 +213,11 @@ public class MediumStepper extends AppCompatActivity {
                 this);
 
         // set title dialog
-        alertDialogBuilder.setTitle("Hellow gaes inpo buat kalian yg lthn");
+        alertDialogBuilder.setTitle("Informasi");
 
         // set pesan dari dialog
         alertDialogBuilder
-                .setMessage("Noob kali you,yakin mau berhenti?\nudah latihan loh!")
+                .setMessage("Apakah Anda yakin mau berhenti?\nudah latihan loh!")
                 .setIcon(R.mipmap.icons)
                 .setCancelable(false)
                 .setPositiveButton("Ya",new DialogInterface.OnClickListener() {
