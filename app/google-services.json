@@ -1,50 +1,34 @@
 {
   "project_info": {
-    "project_number": "1072278544963",
-    "firebase_url": "https://sportsskuyy.firebaseio.com",
-    "project_id": "sportsskuyy",
-    "storage_bucket": "sportsskuyy.appspot.com"
+    "project_number": "1024280588509",
+    "firebase_url": "https://sportsskuyy-f212b.firebaseio.com",
+    "project_id": "sportsskuyy-f212b",
+    "storage_bucket": "sportsskuyy-f212b.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:1072278544963:android:aa63070481cc5751",
+        "mobilesdk_app_id": "1:1024280588509:android:4cf847af78c107bef66b34",
         "android_client_info": {
           "package_name": "com.team.sportsskuyy"
         }
       },
       "oauth_client": [
         {
-          "client_id": "1072278544963-blde7crv94ki6rl5alc7fhhq3b978urg.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.team.sportsskuyy",
-            "certificate_hash": "10855312661983efac6711372952641c7548dfd9"
-          }
-        },
-        {
-          "client_id": "1072278544963-nr49s765drdh3spp7fvqrs3iljb6p8mu.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.team.sportsskuyy",
-            "certificate_hash": "25f71b213377f119d239003988baa3043d115f6a"
-          }
-        },
-        {
-          "client_id": "1072278544963-54lf0oef4glfajclll27mnhi788e6ll9.apps.googleusercontent.com",
+          "client_id": "1024280588509-lr8tvi2q4acupkuh47dfg7oj2ei3svpc.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyAK1H6FNWgZpLEd-Sx_U14Nu8pcwLe-Ewo"
+          "current_key": "AIzaSyDo45VHg0ZDWJCXirnClcCrqzxWzBqKJes"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "1072278544963-54lf0oef4glfajclll27mnhi788e6ll9.apps.googleusercontent.com",
+              "client_id": "1024280588509-lr8tvi2q4acupkuh47dfg7oj2ei3svpc.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
