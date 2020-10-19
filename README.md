@@ -22,7 +22,7 @@ This project is our job as students who are assigned to create java-based androi
 
 ### Requirements API 
 
-Devices must use a minimum API 23 (Android Marshmallow) and a maximum using an API 28 (Android Pie).
+Devices must use a minimum API 23 (Android Marshmallow).
 
 ### Bug
 
